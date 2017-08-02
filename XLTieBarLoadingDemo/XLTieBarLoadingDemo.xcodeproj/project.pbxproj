@@ -303,6 +303,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = X496RVQDTB;
 				INFOPLIST_FILE = XLTieBarLoadingDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mxl.XLTieBarLoadingDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -315,6 +316,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = X496RVQDTB;
 				INFOPLIST_FILE = XLTieBarLoadingDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mxl.XLTieBarLoadingDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -340,6 +342,7 @@
 				5E09E2421E6EB12F00ABF3E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -76,9 +76,9 @@
     _imageView1.backgroundColor = [UIColor colorWithRed:51/255.0f green:170/255.0f blue:255/255.0f alpha:1];
     [_container addSubview:_imageView1];
     
-    UIView *view = [[UIView alloc] initWithFrame:_imageView1.bounds];
-    view.backgroundColor = [UIColor colorWithWhite:0 alpha:0.3];
-    [_imageView1 addSubview:view];
+//    UIView *view = [[UIView alloc] initWithFrame:_imageView1.bounds];
+//    view.backgroundColor = [UIColor colorWithWhite:0 alpha:0.3];
+//    [_imageView1 addSubview:view];
     
     
     //下层图片白底蓝字
@@ -92,9 +92,9 @@
 -(void)buildData
 {
     //振幅
-    _waveAmplitude = 3;
+    _waveAmplitude = 4;
     //角速度
-    _wavePalstance = 0.12;
+    _wavePalstance = 0.11;
     //偏距
     _waveY = _container.bounds.size.height;
     //初相
